@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "testm:block/ruby_block"}
+  }
+}
